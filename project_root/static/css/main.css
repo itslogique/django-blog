@@ -89,7 +89,9 @@ a.article-title:hover {
   left: 0;
   bottom: 0;
   width: 100%;
+  padding: 1.5rem;
   background-color: #10284e;
   color: white;
   text-align: center;
+
 }
