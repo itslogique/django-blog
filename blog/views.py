@@ -5,13 +5,13 @@ posts = [
     {
         'author': 'Ujah Emmanuel',
         'title': 'Django Custom User Model',
-        'content': 'In this article we will learn how to create.',
+        'content': 'In this article we will learn how to create a Django Custom User Model by extending AbstractBaseUser class and the BaseUserManager...',
         'date_posted': '09th November, 2020'
     },
     {
         'author': 'Ujah Emmanuel',
         'title': 'Build a REST API with DRF',
-        'content': 'In this article we will learn how to create.',
+        'content': 'In this article we will learn how to build a REST API with Django Rest Framework',
         'date_posted': '09th November, 2020'
     }
 ]
