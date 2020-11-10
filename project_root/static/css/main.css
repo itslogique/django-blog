@@ -83,15 +83,3 @@ a.article-title:hover {
   font-size: 2.5rem;
 }
 
-
-.footer {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  padding: 1.5rem;
-  background-color: #10284e;
-  color: white;
-  text-align: center;
-
-}
