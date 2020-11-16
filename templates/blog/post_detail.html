@@ -11,7 +11,7 @@
       <p class="article-content">{{ object.content }}</p>
 
       <div class="article-metadata"></div>  
-      
+  
        {% if object.author == user %}
          <div>
             <a class="btn btn-secondary btn-sm mt-1 mb-1" href="{% url 'update-post' object.id %}">Update</a>
